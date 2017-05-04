@@ -1,0 +1,34 @@
+.blue {
+background-color: #4A90E2;
+height: 100vh;
+width: 33.33%;
+float: left;
+
+}
+
+.green {
+background-color: #50E3C2;
+height: 100vh;
+width: 33.33%;
+float: left;
+
+}
+
+.yellow {
+background-color: #B8E986;
+height: 70vh;
+width: 33.33%;
+float: right;
+
+}
+
+.red {
+  background-color: #D0022B;
+  width: 33.33%;
+  height: 30vh;
+  color: white;
+  float: right;
+  text-align: center;
+  padding-top: 70px;
+
+}
